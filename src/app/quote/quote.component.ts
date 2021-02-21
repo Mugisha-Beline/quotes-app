@@ -6,7 +6,7 @@ import {Quote} from '../quote';
   styleUrls: ['./quote.component.css']
 })
 export class QuoteComponent implements OnInit {
-  quotes=[new Quote("ANC","Julius Malema","Mama give us a sign"),
+  quotes=[new Quote("ANC","William Shakespeare","Love all, trust a few,do wrong to none"),
 new Quote("Lupita","Black Panther","Wakanda Forever")]
   preNum !:number
   lastNum !:number
