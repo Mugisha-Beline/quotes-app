@@ -23,6 +23,7 @@ To view the page click here: [QUOTES](https://Mugisha-Beline.github.io/quotes-ap
 + Angular JS
 + HTML 
 + CSS
++ boostrap
 
 ## Contributions 
 Pull requests are encouraged
