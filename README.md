@@ -25,8 +25,8 @@ To view the page click here: [QUOTES](https://Mugisha-Beline.github.io/quotes-ap
 + CSS
 + boostrap
 
-## Contributions 
-Pull requests are encouraged
+## Contributors
+- I did it my own
 
 ## Contact Details
 You can contact me at belinemugisha@gmail.com
